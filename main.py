@@ -1,8 +1,5 @@
 import streamlit as st
-import pandas as pd
-import pickle
 from sklearn.cluster import KMeans
-import matplotlib.pyplot as plt
 from PIL import Image
 import numpy as np
 import streamlit.components.v1 as components
